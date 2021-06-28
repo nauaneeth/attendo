@@ -20,7 +20,7 @@ A GSuite Integrated Attendance Tracking App
 - [Frequently Asked Questions](https://rebrand.ly/attendofaq)
 
 ------------
-<div style="display:flex; flex-wrap:wrap;">
+<div style="display:flex; flex-wrap:wrap;  flex-direction: row">
  <img src="https://play-lh.googleusercontent.com/ziLy6mtGQmTI5veZK8kV_lD85_izTPcFthApQCQi-DGfAmlFHwqydPswFQFt3loF73MA=w1536-h722-rw" style="min-width:100px; width:65vw; max-width: 300px;" />
  <img src="https://play-lh.googleusercontent.com/2KX7rKoRJBmRvGCvPm5FB6fjnC0g1-kFNTbmo9iVgStj_MccCO1fub0Py4tk2EbT2cw=w1536-h722-rw" style="min-width:100px; width:65vw; max-width: 300px" /> 
  <img src="https://play-lh.googleusercontent.com/RM_GBTCK1Z_QPcoyaQ_UqsyS-LLjr_SPbF7y48NE38D1R_jAgu3lsXmRFLdNnMCvB3o=w1536-h722-rw"style="min-width:100px; width:65vw; max-width: 300px" />
